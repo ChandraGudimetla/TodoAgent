@@ -1,0 +1,22 @@
+# Build output
+.gradle/
+build/
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
+
+# Local machine config (contains your SDK path)
+local.properties
+
+# Firebase config: each developer adds their own
+app/google-services.json
+
+# Signing keys
+*.jks
+*.keystore
